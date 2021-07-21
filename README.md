@@ -5,6 +5,8 @@ Check out my websites: [ryhn.link](https://ryhn.link) and [ryhon.ga](https://ryh
 # My projects
 ## C#
 ### S&Box 
+* [awesome-sbox](https://github.com/Ryhon0/awesome-sbox) - Cool open-source S&Box projects
+* [Sandbox.System](https://github.com/Ryhon0/Sandbox.System) - Sandbox API wrappings for C#'s standard libraries
 * [Gun Game](https://github.com/Ryhon0/sbox-gg)
 * [S&Saber](https://github.com/Ryhon0/sandsaber) - Beat Saber implementation in S&Box
 * [RWB](https://github.com/Ryhon0/RWB) - Weapon base for simple weapons
