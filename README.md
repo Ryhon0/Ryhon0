@@ -12,7 +12,7 @@ Check out my websites: [ryhn.link](https://ryhn.link) and [ryhon.ga](https://ryh
 * [ImageSplitter](https://github.com/Ryhon0/ImageSplitter) - Split images into Discord emote puzzles
 * [GetTheText](https://github.com/Ryhon0/GetTheText) - xgettext alternative for C# using Roslyn analyzer
 * [BitKnight](https://github.com/Ryhon0/BitKnight) - Side-scroller adventure game in the style of Nokia 3310 games made in Godot
-* [https://github.com/Ryhon0/MonoPresence] - Discord Rich Presence for MonoDevelop based IDEs
+* [MonoPresence](https://github.com/Ryhon0/MonoPresence) - Discord Rich Presence for MonoDevelop based IDEs
 ## D
 * [gravity-d](https://github.com/Ryhon0/gravity-d) - D bindings for gravitylang
 * [rterm](https://github.com/Ryhon0/rterm) - Cross-platform multi-tab terminal with CSS styling
