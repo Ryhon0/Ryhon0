@@ -26,3 +26,4 @@ Check out my websites: [ryhn.link](https://ryhn.link) and [ryhon.ga](https://ryh
 * [twemoji-colr](https://github.com/Ryhon0/twemoji-colr) - My fork of twemoji-colr, contains custom emojis and improvements to existing ones
 * [BitmapFontCutterPlus](https://github.com/Ryhon0/BitmapFontCutterPlus) - Godot 3.x plugin for generating bitmap fonts
 * [quickskin](https://github.com/Ryhon0/quickskin) - Minecraft Fabric mod for flipping hand position and toggling skin parts using a keybind
+* [open-emoji-mash](https://github.com/Ryhon0/open-emoji-mash) - Open-source alternative to Emoji Mashup Bot
