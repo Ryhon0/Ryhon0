@@ -8,8 +8,8 @@ My games are available here:
 
 ## Contact 
 Usually replying within 2 days  
-[ryhon@ryhn.link](mailto:ryhon@ryhn.link)  
-[@ryhon:ryhn.link](https://matrix.to/#/@ryhon:ryhn.link) (Matrix)
+Mail: [ryhon@ryhn.link](mailto:ryhon@ryhn.link)  
+[m]: [@ryhon:ryhn.link](https://matrix.to/#/@ryhon:ryhn.link)
 
 ## Websites
 [ryhon.ga](https://ryhon.ga/) - Personal website  
