@@ -12,5 +12,5 @@ Mail: [ryhon@ryhn.link](mailto:ryhon@ryhn.link)
 [m]: [@ryhon:ryhn.link](https://matrix.to/#/@ryhon:ryhn.link)
 
 ## Websites
-[ryhon.ga](https://ryhon.ga/) - Personal website  
-[ryhn.link](https://ryhn.link/) - Blog and collection of services (mail, matrix, url shortener, pacman repo)
+[ryhon.xyz](https://ryhon.xyz/) - Personal website  
+[ryhn.link](https://ryhn.link/) - Blog and variety of services
